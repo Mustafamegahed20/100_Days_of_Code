@@ -6,7 +6,7 @@
 
 * **Beginner**
   * **Day 2: [Tip Calculator](https://github.com/Mustafamegahed20/100_Days_of_Code/tree/main/Day_2)**
-  * **Day 3: [Treasure Island]()**
+  * **Day 3: [Treasure Island](https://github.com/Mustafamegahed20/100_Days_of_Code/tree/main/Day_3)**
   * **Day 4: [Rock Paper Scissors]()**
   * **Day 5: [password-generator]()**
 
