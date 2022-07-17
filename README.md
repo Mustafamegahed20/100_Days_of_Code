@@ -8,6 +8,8 @@
   * **Day 2: [Tip Calculator]()**
   * **Day 3: [Treasure Island]()**
   * **Day 4: [Rock Paper Scissors]()**
+  * **Day 4: [password-generator]()**
+
 </br>
  
 <!---  
